@@ -5,6 +5,54 @@
 A web application to find real job postings, built for **CS673 Software Engineering** at **Boston University**.  
 The app uses the **Rise Jobs API** to fetch live listings and provides a simple, fast interface to search and filter roles.
 
+## My Contribution
+
+This repository is a fork of a team project.  
+I mainly contributed to the **backend and system design**, including:
+
+- Backend REST API design and implementation
+- Database schema design and data modeling
+- Authentication and authorization logic
+- Supporting frontend–backend integration
+
+Original team repository:  
+https://github.com/BUMETCS673/CS673OLFall25_team2
+
+---
+
+## Tech Stack
+
+**Frontend**
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+
+**Backend**
+- Spring Boot (Java)
+- RESTful APIs
+- JWT-based authentication
+
+**Database**
+- MySQL
+
+**DevOps / Tools**
+- Docker & Docker Compose
+- Git & GitHub
+- IntelliJ IDEA
+
+---
+
+## Key Features
+
+- User authentication and secure access control
+- Job posting search and filtering
+- Job application tracking with status board (drag & drop)
+- Resume and cover letter template management
+- Notes and checklist support for applications
+
+---
+
 ## Team
 
 - Pedro Ramirez
