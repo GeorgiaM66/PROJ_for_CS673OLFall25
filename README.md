@@ -18,8 +18,6 @@ I mainly contributed to the **backend and system design**, including:
 Original team repository:  
 https://github.com/BUMETCS673/CS673OLFall25_team2
 
----
-
 ## Tech Stack
 
 **Frontend**
@@ -40,8 +38,6 @@ https://github.com/BUMETCS673/CS673OLFall25_team2
 - Docker & Docker Compose
 - Git & GitHub
 - IntelliJ IDEA
-
----
 
 ## Key Features
 
